@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Đồ Thể Thao"
+    },
+    {
+        "id":2,
+        "name":"Giày Thể Thao"
+    },
+    {
+        "id":3,
+        "name":"Phụ Kiện Thể Thao"
+    },
+    {
+        "id":4,
+        "name":"Dụng Cụ Thể Thao"
+    },
+    {
+        "id":5,
+        "name":"Bộ Sưu Tập"
+    }
+]
