@@ -5,7 +5,7 @@ function LetterItem({ letter }) {
         console.log("LetterItem mounted:", letter.id);
 
         return () => {
-            console.log("LetterItem unmounted:", letter.id) ;
+            console.log("LetterItem unmounted:", letter.id);
         };
     }, []);
 

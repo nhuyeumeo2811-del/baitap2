@@ -2,8 +2,8 @@ import { useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import LetterForm from './LetterForm';
-import LetterList from './LetterList';
+import LetterForm from './components/LetterForm';
+import LetterList from './components/LetterList';
 
 function App() {
   const [letters, setLetters] = useState([]);
@@ -30,7 +30,7 @@ function App() {
       <LetterForm onAdd={addLetter} />
       <LetterList letters={letters} />
     </div>
-  )
-}
+  );
+};
 
 export default App
