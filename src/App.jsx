@@ -16,7 +16,7 @@ function App() {
     console.log("Letters updated:", letters);
   }, [letters])
 
-  const sddLetter = (content) => {
+  const addLetter = (content) => {
     setLetters([
       ...letters,
       {
