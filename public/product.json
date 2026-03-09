@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Áo khoác gió chạy bộ",
+    "id category": 1
+  },
+  {
+    "id": 2,
+    "name": "Giày đá bóng sân cỏ nhân tạo",
+    "id category": 2
+  },
+  {
+    "id": 3,
+    "name": "Áo Bra thể thao hỗ trợ cao",
+    "id category": 3
+  },
+  {
+    "id": 4,
+    "name": "Mũ len giữ nhiệt leo núi",
+    "id category": 4
+  },
+  {
+    "id": 5,
+    "name": "Balo thể thao chống nước",
+    "id category": 5
+  },
+  {
+    "id": 6,
+    "name": "Vớ (tất) nén hỗ trợ cơ bắp",
+    "id category": 6
+  },
+  {
+    "id": 7,
+    "name": "Băng bảo vệ đầu gối",
+    "id category": 7
+  },
+  {
+    "id": 8,
+    "name": "Kính bảo hộ chơi Tennis",
+    "id category": 8
+  },
+  {
+    "id": 9,
+    "name": "Dây đeo theo dõi vận động",
+    "id category": 9
+  },
+  {
+    "id": 10,
+    "name": "Quần bơi nam dáng lửng",
+    "id category": 10
+  }
+]

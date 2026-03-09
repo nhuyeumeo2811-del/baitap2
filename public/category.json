@@ -1,22 +1,42 @@
 [
     {
-        "id":1,
-        "name":"Đồ Thể Thao"
+      "id": 1,
+      "name": "Quần áo "
     },
     {
-        "id":2,
-        "name":"Giày Thể Thao"
+      "id": 2,
+      "name": "Giày thể thao"
     },
     {
-        "id":3,
-        "name":"Phụ Kiện Thể Thao"
+      "id": 3,
+      "name": "Đồ bó cơ "
     },
     {
-        "id":4,
-        "name":"Dụng Cụ Thể Thao"
+      "id": 4,
+      "name": "Mũ nón & Đồ đội đầu "
     },
     {
-        "id":5,
-        "name":"Bộ Sưu Tập"
+      "id": 5,
+      "name": "Túi xách & Balo "
+    },
+    {
+      "id": 6,
+      "name": "Phụ kiện tay chân "
+    },
+    {
+      "id": 7,
+      "name": "Đồ bảo hộ chấn thương "
+    },
+    {
+      "id": 8,
+      "name": "Kính mắt thể thao "
+    },
+    {
+      "id": 9,
+      "name": "Thiết bị đeo thông minh "
+    },
+    {
+      "id": 10,
+      "name": "Đồ bơi & Thể thao dưới nước "
     }
-]
+  ]
