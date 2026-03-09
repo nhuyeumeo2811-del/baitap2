@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "name": "Quần áo "
+      "name": "Trang phục thể thao"
     },
     {
       "id": 2,
@@ -9,34 +9,34 @@
     },
     {
       "id": 3,
-      "name": "Đồ bó cơ "
+      "name": "Thiết bị hổ trợ luyện tập"
     },
     {
       "id": 4,
-      "name": "Mũ nón & Đồ đội đầu "
+      "name": "Mũ nón"
     },
     {
       "id": 5,
-      "name": "Túi xách & Balo "
+      "name": "Túi xách & Balo"
     },
     {
       "id": 6,
-      "name": "Phụ kiện tay chân "
+      "name": "Thiết bị bảo hộ"
     },
     {
       "id": 7,
-      "name": "Đồ bảo hộ chấn thương "
+      "name": "Thực phẩm bổ xung"
     },
     {
       "id": 8,
-      "name": "Kính mắt thể thao "
+      "name": "Kính mắt thể thao"
     },
     {
       "id": 9,
-      "name": "Thiết bị đeo thông minh "
+      "name": "Thiết bị đeo thông minh"
     },
     {
       "id": 10,
-      "name": "Đồ bơi & Thể thao dưới nước "
+      "name": "Đồ bơi"
     }
   ]
