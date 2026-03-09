@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "id invoice": 1001,
+    "id product": 1,
+    "product_name": "Áo khoác gió chạy bộ",
+    "quantity": 1,
+    "price": 450000,
+    "total": 450000
+  },
+  {
+    "id": 2,
+    "id invoice": 1002,
+    "id product": 2,
+    "product_name": "Giày đá bóng sân cỏ nhân tạo",
+    "quantity": 1,
+    "price": 750000,
+    "total": 750000
+  }
+]

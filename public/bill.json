@@ -1,0 +1,46 @@
+[
+  {
+    "id": "B001",
+    " customer ": "C001",
+    "id employee ": "E001",
+    "date": "2026-03-05",
+    "status": "paid",
+    "total": 1200000,
+    "items": [
+      {
+        "id product": "1",
+        "name product ": "Áo khoác gió chạy bộ",
+        "quantity": 1,
+        "price": 450000
+      },
+      {
+        "id product": "2",
+        "name product": "Giày đá bóng sân cỏ nhân tạo",
+        "quantity": 1,
+        "price": 750000
+      }
+    ]
+  },
+ {
+    "id": "B001",
+    " customer ": "C002",
+    "id employee ": "E001",
+    "date": "2026-03-09",
+    "status": "paid",
+    "total": 200000,
+    "items": [
+      {
+        "id product": "7",
+        "name product ": "Băng bảo vệ đầu gối",
+        "quantity": 1,
+        "price": 150000
+      },
+      {
+        "id product": "6",
+        "name product": "Vớ nén hỗ trợ cơ bắp",
+        "quantity": 1,
+        "price": 50000
+      }
+    ]
+  }
+]
